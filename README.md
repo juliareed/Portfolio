@@ -1,10 +1,6 @@
 # Portfolio
-This is my Personal Portfolio using Bootstrap!
+This is my portfolio!
 
-Please checkout my wepbage at [thomas-thompson.herokuapp.com](http://thomas-thompson.herokuapp.com/).
-
-This page chronicles all of the projects that I developed while at Rutgers Coding Bootcamp.
-
-Please check in periodically since I am constantly adding new projects.
+This page chronicles all of the projects that I developed while at Northwestern Coding Bootcamp.
 
 All of the clip art icons in the app can be found [here](http://www.flaticon.com/)!
