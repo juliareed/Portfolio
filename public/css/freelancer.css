@@ -11,6 +11,7 @@ body {
 
 p {
     font-size: 20px;
+    text-align: center;
 }
 
 p.small {
@@ -120,6 +121,11 @@ header .container {
     padding-bottom: 50px;
 }
 
+.intro-background {
+    width: 100%;
+    position: relative;
+}
+
 header img {
     display: block;
     margin: 0 auto 20px;
@@ -127,7 +133,15 @@ header img {
 
 .name {
     font-family: 'Waiting for the Sunrise', cursive;
-    font-size: 2em;
+    font-size: 8em;
+    position: absolute;
+    padding-bottom: 1000px;
+}
+
+.subtitle {
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 6em;
+    position: absolute;
 }
 
 header .intro-text {
